@@ -1,0 +1,15 @@
+{
+	"name": "ADF-Spotifypracticeproj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "indiasouthcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "63715212-b7d2-41cf-84c2-e1fd10879aac",
+		"tenantId": "f4c988c0-8061-47a6-b9d8-0ea999441b92"
+	}
+}
